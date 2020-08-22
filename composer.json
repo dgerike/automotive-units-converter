@@ -1,0 +1,18 @@
+{
+    "name": "dgerike/aumuc",
+    "description": "A PHP library to convert car related units, like `PS` to `kW` or `mph` to `km/h`.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Gerike",
+            "email": "dennis.gerike@more-cars.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "dgerike\\Aumuc\\": "src/"
+        }
+    },
+    "require": {}
+}
