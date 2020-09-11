@@ -4,6 +4,7 @@ namespace dgerike\Aumuc;
 
 class Aumuc
 {
+    use Power;
     use Speed;
     use Weight;
     use Force;
