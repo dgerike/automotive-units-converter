@@ -2,7 +2,8 @@
 
 namespace dgerike\Aumuc;
 
-trait Power {
+trait Power
+{
     /**
      * Convert "PS (horsepower)" to "kW (kilowatt)"
      *

@@ -2,7 +2,8 @@
 
 namespace dgerike\Aumuc;
 
-trait Speed {
+trait Speed
+{
     /**
      * Convert "miles per hour" to "kilometers per hour"
      *

@@ -4,10 +4,10 @@ namespace dgerike\Aumuc;
 
 class Aumuc
 {
+    use Force;
     use Power;
     use Speed;
     use Weight;
-    use Force;
 
     /**
      * Generic converter
