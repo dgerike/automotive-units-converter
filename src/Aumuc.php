@@ -7,6 +7,7 @@ class Aumuc
     use Force;
     use Power;
     use Speed;
+    use Volume;
     use Weight;
 
     /**

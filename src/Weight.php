@@ -16,7 +16,7 @@ trait Weight
     }
 
     /**
-     * Convert "lb (pound)"" to "kg (kilogram)"
+     * Convert "lb (pound)" to "kg (kilogram)"
      *
      * @param $lb
      * @return float
